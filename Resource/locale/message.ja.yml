@@ -1,0 +1,8 @@
+plg.maintenance_manager:
+    enable.success: メンテナンス状態にしました。
+    disable.success: 通常状態にしました。
+    enable.error: メンテナンス状態への移行に失敗しました。サイトが正常に表示されていない可能性がありますので、.htaccess を確認してください。
+    disable.error: 通常状態への移行に失敗しました。サイトが正常に表示されていない可能性がありますので、.htaccess を確認してください。
+    label:
+        status: 状態
+        content: メンテナンス用HTMLの内容

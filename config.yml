@@ -1,0 +1,5 @@
+code: MaintenanceManager
+name: メンテナンス管理
+version: 1.0.0
+service:
+    - MaintenanceManagerServiceProvider
